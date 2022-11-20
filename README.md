@@ -1,3 +1,2 @@
-# Bluetooth-Based-Remote-Light-Controlling-System
-This is a project we did for the EN1070 Electronic Product Design and Manufacture Module. Here we designed a light controlling system which uses bluetooth as the controlling method. 
-Our project is very helpful to disabled people because they don't have to walk to the light bulb to turn ON/OFF them. 
+# Bluetooth Based Remote Light Controlling System
+In this project we focused on the development of a Bluetooth based system consisting of a remote and a bulb holder that has ability to control the on/off state of the bulb. Here we have designed a remoted controller and a bulb holder to control the ON/OFF state of the bulb.   
